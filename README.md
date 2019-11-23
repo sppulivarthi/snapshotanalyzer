@@ -18,5 +18,6 @@ pipenv run "python shotty/shotty.py"
 # install cick modules
 pipenv install click
 
-*command* is list, start, stop
+*command* is instances, volumes, or snapshots
+*subcommands* depends on command
 *project* is optional
