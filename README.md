@@ -14,3 +14,6 @@ pipenv install -d ipython
 
 # run python script
 pipenv run "python shotty/shotty.py"
+
+# install cick modules
+pipenv install click
